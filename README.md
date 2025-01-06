@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Falih</h1>
-<h3 align="center">A frontend developer from Iraq</h3>
+<h3 align="center">A passionate frontend developer from Iraq</h3>
+
+- 👨‍💻 All of my projects are available at [https://linktr.ee/mohfalih1](https://linktr.ee/mohfalih1)
+
+- 💬 Ask me about **vue ,nuxt**
+
+- 📫 How to reach me **devmohfalih@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
