@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Falih</h1>
 <h3 align="center">A passionate frontend developer from Iraq</h3>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/mohfalih1](https://linktr.ee/mohfalih1)
+- 👨‍💻 All of my accounts [https://linktr.ee/mohfalih1](https://linktr.ee/mohfalih1)
 
 - 💬 Ask me about **vue ,nuxt**
 
